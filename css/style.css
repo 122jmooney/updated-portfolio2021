@@ -1,0 +1,50 @@
+html {
+  scroll-behavior: smooth;
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+.name {
+  color: #ff1a00;
+  font-size: 100px;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+}
+.homesection {
+  color: #000000;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+}
+.picture {
+  height: 200px;
+}
+.card {
+  margin-left: 40px;
+}
+.socialmedia {
+  height: 50px;
+}
+.jumbocolor {
+  background-color: #21206b;
+}
+.color {
+  background-color: #21206b;
+  padding-bottom: 5%;
+}
+.card {
+  background-color: #343840;
+}
+.jumbotron {
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 25%;
+}
+.card-text {
+  color: #000000;
+}
+.card-title {
+  color: #000000;
+}
+.one {
+  padding-left: 10px;
+  padding-right: 10px;
+}
