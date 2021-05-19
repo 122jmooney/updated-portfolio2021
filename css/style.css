@@ -37,7 +37,7 @@ html {
   padding-bottom: 25%;
 }
 .card-text {
-  color: #000000;
+  color: #cccccc;
 }
 .card-title {
   color: #000000;
@@ -45,4 +45,12 @@ html {
 .one {
   padding-left: 10px;
   padding-right: 10px;
+}
+.card-img-1 {
+  height: 200px;
+  width: 320px;
+}
+.card-img {
+  height: 200px;
+  width: 200px;
 }
